@@ -1,0 +1,1 @@
+{"uuid":"a99fcaf8-5060-47d8-98c5-1bf2a5a24665","name":"GenyMotion","children":["792d36b4-6e6e-43c0-8892-8025b06aa871"],"befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697178319841,"stop":1697178331906}],"afters":[],"start":1697178319820,"stop":1697178335254}
